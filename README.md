@@ -1,7 +1,7 @@
 # Bachelor-Thesis-Project
 ## Prediction of FoG (Freezing of Gait) in parkinson patients
 ## Data
-  Daphnet Freezing of Gait  dataset  [DG dataset] (https://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gait#)
+  Daphnet Freezing of Gait  dataset  [DG dataset](https://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gait#)
     This dataset contains the annotated readings of 3 acceleration sensors at the hip and leg of Parkinson's disease patients that experience freezing of gait (FoG) during walking tasks.
   - 10 patients, 7 male and 3 female
   - 8 hours and 20 minutes signals each
