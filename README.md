@@ -10,7 +10,7 @@ Thesis Project - Bachelor's of Biomedical Engineering
   - each person had 0-66 FoGs, average 23.7 per person
   - each FoG lasts between 5.4 - 40.5 seconds, average 7.3 seconds
  
-## preprocessing
+## Preprocessing
   - Windowing
   - Normalization
   - Pruning
